@@ -1,1 +1,1 @@
-# hyperskill.org
+# hyperskill
